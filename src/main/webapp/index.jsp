@@ -37,7 +37,7 @@
 <div class="highlight">
     <p>I am a passionate and certified Cloud Practitioner and Solution Architect, equipped with hands-on experience in designing, deploying, and managing scalable cloud solutions.</p>
     
-    <p>My journey in cloud computing was accelerated through intensive training programs, including ALX Africa, where I honed my skills in cloud infrastructure, DevOps practices, and AWS services. Additionally, my collaboration with Nextwork provided me with real-world exposure to cloud architecture, system optimization, and enterprise-level cloud strategies.</p>
+    <p>My journey in cloud computing was accelerated through intensive training programs Nextwork Academy, including ALX Africa, where I honed my skills in cloud infrastructure, DevOps practices, and AWS services. Additionally, my collaboration with Nextwork provided me with real-world exposure to cloud architecture, system optimization, and enterprise-level cloud strategies.</p>
 </div>
 
 <div class="skills">
@@ -58,6 +58,9 @@
 <p><em>I am writing this line using nano instead of an IDE.</em></p>
 
 <p><small>If you see this line in Github, that means your latest changes are getting pushed to your cloud repo :)</small></p>
+
+</body>
+</html>
 
 </body>
 </html>
