@@ -17,7 +17,7 @@
     <repositories>
       <repository>
         <id>nextwork-nextwork-devops-cicd</id>
-        <url>https://nextwork-131844918760.d.codeartifact.us-west-2b.amazonaws.com/maven/nextwork-devops-cicd/</url>
+        <url>https://nextwork-131844918760.d.codeartifact.us-west-2.amazonaws.com/maven/nextwork-devops-cicd/</url>
       </repository>
     </repositories>
   </profile>
